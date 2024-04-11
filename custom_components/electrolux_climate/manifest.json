@@ -2,10 +2,10 @@
   "domain": "electrolux_climate",
   "name": "Electrolux Climate",
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/electrolux_climate",
+  "documentation": "https://github.com/sdoe0/ElectroluxClimateComponent",
   "requirements": ["broadlink==0.18.2"],
   "codeowners": [
-    "@DotEfekts"
+    "@sdoe0"
   ],
   "dhcp": [
     {
