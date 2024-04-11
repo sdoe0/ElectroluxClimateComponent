@@ -1,2 +1,2 @@
 # ElectroluxClimateComponent
-Custom Component for Home Assistant to control Electrolux airconditioners
+Custom Component für Home Assistant zur Integration von AEG PX71-265 WT Geräten
